@@ -36,3 +36,4 @@ You might want to have access to the Minecraft Server's console to execute comma
 
 Depending on your system and depending on what you're building, you might need to increase the memory of the Minecraft Server. Edit the `docker-compose.yml` file, changing the server's environment variable "MEMORY". Currently it is set to 1G.
  
+ 
